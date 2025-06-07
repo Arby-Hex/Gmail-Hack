@@ -26,6 +26,18 @@
 ## ⚙️ Instalasi
 
 ```bash
-git clone https://github.com/username/attack_scent_extreme.git
-cd attack_scent_extreme
-python attack_scent_extreme.py
+pkg update && pkg upgrade
+pkg install python3
+pkg install git
+git clone https://github.com/Arby-Hex/Gmail-Hack
+cd Gmail-Hack
+pip install rich
+pip install datetime
+python3 ghack.py
+```
+# Enjoy Hacking
+
+<p align="center">
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="300" />
+</p>
+
