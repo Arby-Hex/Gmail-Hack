@@ -38,6 +38,6 @@ python3 ghack.py
 # Enjoy Hacking
 
 <p align="center">
-  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="300" />
 </p>
 
